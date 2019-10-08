@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,700|Inknut+Antiqua");
+
+body {
+  font-family: "IBM Plex Mono", "Courier New", Courier, monospace;
+  font-size: $base-font-size + px;
+  line-height: $leading;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  max-width: 35em;
+}
+
+// Titles
+.title {
+  margin: 0;
+  font-family: "IBM Plex Mono", "Courier New", Courier, monospace;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+small {
+  font-size: 0.707em;
+  line-height: 1.36;
+  display: inline-block;
+  max-width: 35em;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>cancel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Icons/White/Error" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="cancel">
+                <path d="M27.0710678,27.0710678 L12.9289322,12.9289322 M27.0710678,12.9289322 L12.9289322,27.0710678" id="Shape"></path>
+                <path d="M5.85786438,34.1421356 C-1.95262146,26.3316498 -1.95262146,13.6683502 5.85786438,5.85786438 C13.6683502,-1.95262146 26.3316498,-1.95262146 34.1421356,5.85786438 C41.9526214,13.6683502 41.9526214,26.3316498 34.1421356,34.1421356 C26.3316498,41.9526214 13.6683502,41.9526214 5.85786438,34.1421356 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

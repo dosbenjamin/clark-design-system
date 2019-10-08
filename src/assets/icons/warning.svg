@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="36px" viewBox="0 0 42 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>danger</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Icons/Black/Warning" transform="translate(1.000000, -2.000000)" stroke="#292929" stroke-width="2">
+            <g id="danger" transform="translate(0.000000, 3.000000)">
+                <path d="M19.9606795,12.6863794 L19.9606795,18.9713746" id="Path"></path>
+                <path d="M19.9608464,25.2563699 L19.9606795,25.2563699" id="Path"></path>
+                <path d="M21.7664303,1.09116679 L39.0534845,30.4791589 C39.6401249,31.4764475 39.3072286,32.7604756 38.30994,33.347116 C37.9879876,33.5364997 37.6212566,33.6363636 37.2477337,33.6363636 L2.6736253,33.6363636 C1.51658962,33.6363636 0.578626871,32.6984008 0.578626871,31.5413652 C0.578626871,31.1678421 0.678490753,30.8011111 0.867874484,30.4791589 L18.1549287,1.09116679 C18.7415691,0.0938781272 20.0255972,-0.239018066 21.0228858,0.347622326 C21.3299155,0.528228034 21.5858246,0.784137078 21.7664303,1.09116679 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

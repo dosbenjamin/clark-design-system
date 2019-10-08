@@ -1,0 +1,40 @@
+.link {
+  color: $c-primary-middleOrange;
+  text-decoration: none;
+  margin-left: rythm-unit(3);
+  position: relative;
+  transition: 250ms;
+  margin-bottom: rythm-unit(1);
+
+  &:focus {
+    outline: 1px dashed $c-accent-darkPurple;
+    border: 0;
+    width: fit-content;
+  }
+
+  &::after {
+    content: "";
+    width: 15%;
+    transform: scaleX(0);
+    transform-origin: left;
+    height: 1px;
+    display: block;
+    background-color: $c-primary-brown;
+    position: absolute;
+    left: 0;
+    margin-top: 0.707rem;
+    transition: 250ms;
+  }
+
+  &:hover {
+    color: $c-primary-brown;
+
+    &::after {
+      transform: scaleX(1);
+    }
+  }
+}
+
+.router-link-exact-active {
+  color: $c-primary-brown;
+}

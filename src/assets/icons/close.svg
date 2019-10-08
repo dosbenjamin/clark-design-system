@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icons/White/Cross</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Forms/Alert" transform="translate(-306.000000, -21.000000)" stroke="#FFFFFF">
+            <g id="Group-2">
+                <g id="Group" transform="translate(36.000000, 22.500000)">
+                    <g id="Icons/White/Cross" transform="translate(271.000000, 0.000000)">
+                        <g id="close">
+                            <path d="M0.371741229,0.371741229 L12.6282587,12.6282587 M0.371741229,12.6282587 L12.6282587,0.371741229" id="Shape" stroke-width="2"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
